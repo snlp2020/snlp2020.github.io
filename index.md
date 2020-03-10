@@ -54,8 +54,8 @@ Please complete this exercise before Monday 22th of April.
 
 ## Practical information
 
-| Lectures      | Monday/Friday 12:15-13:45, room 0.02 |
-| Lab  			| Wednesday 14:15-15:45, room 0.02 |
+| Lectures      | Monday 12:00 / Wednesday 14:00, room 0.02 |
+| Lab  			| Friday 12:00, room 0.02 |
 | First Lecture | Wednesday April 17 |
 | Lecturer      | Çağrı Çöltekin [\<ccoltekin@sfs.uni-tuebingen.de\>](mailto:ccoltekin@sfs.uni-tuebingen.de) |
 | Office hours  | Monday 14:00-15:00|
