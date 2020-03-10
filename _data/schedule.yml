@@ -1,0 +1,123 @@
+- week: "01"
+  dates:
+    Apr 13: "No class"
+    Apr 15:
+      topic: Introduction
+      reading: none
+      links:
+        slides: slides/introduction.pdf
+        8up: slides/introduction-handout.pdf
+      reading: None
+    Apr 17: 
+      topic: Math preliminaries
+      reading: None
+- week: "02"
+  dates:
+    Apr 20: 
+      topic: Probability theory
+      reading: None
+    Apr 22:
+      topic: Probability theory (contd.)
+    Apr 24:
+      topic: Information theory
+- week: "03"
+  dates:
+    Apr 27:
+      topic: Machine learning introduction
+    Apr 29:
+      topic: Classification I
+    May 01: "No class"
+- week: "04"
+  dates:
+    May 04:
+      topic: Classification II
+    May 6:
+      topic: ML evaluation
+    May 8:
+      topic: lab
+- week: "05"
+  dates:
+    May 11:
+      topic: ANN basics
+    May 13:
+      topic: ANN basics
+    May 15:
+      topic: lab
+- week: "06"
+  dates:
+    May 18:
+      topic: Unsupervised learning
+    May 20:
+      topic: Unsuprevised learning
+    May 22:
+      topic: lab
+- week: "07"
+  dates:
+    May 25:
+      topic: Unsupervised learning
+    May 27:
+      topic: Summary
+    May 29:
+      topic: lab 
+- week: ""
+  dates:
+    Jun 01: "Sem. break"
+    Jun 03: "Sem. break"
+    Jun 05: "Sem. break"
+- week: "08"
+  dates:
+    Jun 08:
+      topic: Sequence learning
+    Jun 10:
+      topic: Sequence learning
+    Jun 12:
+      topic: lab
+- week: "09"
+  dates:
+    Jun 15:
+      topic: Recurrent and convolutional networks
+    Jun 17:
+      topic: Language models
+    Jun 19:
+      topic: lab
+- week: "10"
+  dates:
+    Jun 22:
+      topic: Tokenization / segmentation
+    Jun 24:
+      topic: POS tagging and morphology
+    Jun 26:
+      topic: lab
+- week: "11"
+  dates:
+    Jun 29:
+      topic: Dense vector representations
+    Jul 01:
+      topic: Dense vector representations
+    Jul 03:
+      topic: lab
+- week: "12"
+  dates:
+    Jul 6:
+      topic: Text classification
+    Jul 8:
+      topic: Parsing I
+    Jul 11:
+      topic: lab
+- week: "11"
+  dates:
+    Jul 13:
+      topic: Parsing II
+    Jul 15:
+      topic: State of the art in NLP
+    Jul 17:
+      topic: lab
+- week: "14"
+  dates:
+    Jul 20:
+      topic: Summary
+    Jul 22:
+      topic: Exam preparation/discussion
+    Jul 24:
+      topic: Exam
+- week: ""
