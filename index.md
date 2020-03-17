@@ -12,8 +12,8 @@ at the [Department of Linguistics](http://sfs.uni-tuebingen.de),
 ## Introduction
 
 This course is a practical, broad and fast-paced introduction
-to Natural Langauge Processing (NLP).
-the course covers a variety of machine learning techniques
+to Natural Language Processing (NLP).
+The course covers a variety of machine learning techniques
 and their applications in NLP and computational linguistics.
 The [schedule](schedule) includes for more information
 on the topics and course material.
