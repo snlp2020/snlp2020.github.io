@@ -3,6 +3,11 @@ layout: default
 title: ""
 ---
 
+**Due to current COVID-19 pandemic, the whole or a part of the class
+may be taught online.
+Please follow this page for further updates/information.**
+
+
 This is the course page
 for the summer semester 2020 edition of the course
 statistical natural language processing (NLP)
