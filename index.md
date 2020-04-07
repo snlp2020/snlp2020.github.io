@@ -10,7 +10,7 @@ Please follow this page for further updates/information.**
 
 This is the course page
 for the summer semester 2020 edition of the course
-statistical natural language processing (NLP)
+_statistical natural language processing_ (NLP)
 at the [Department of Linguistics](http://sfs.uni-tuebingen.de),
 [University of Tübingen](http://uni-tuebingen.de).
 
@@ -57,11 +57,21 @@ Please complete this exercise before Monday 22th of April.
    Springer-Verlag, second edition. (**HTF**)
    [available online](http://web.stanford.edu/~hastie/ElemStatLearn/)
 
+We will also make use of a
+[Moodle course](https://moodle.zdv.uni-tuebingen.de/mod/forum/view.php?id=22400)
+ocassionally.
+Please do not forget to register to the course on
+[Moodle](https://moodle.zdv.uni-tuebingen.de/).
+
 ## Practical information
+
+**Due to current COVID-19 pandemic, the whole or a part of the class may be taught online.
+The places indicated below are only relevant
+only after the normal teaching activities are resumed**
 
 | Lectures      | Monday 12:00 / Wednesday 14:00, room 0.02 |
 | Lab  			| Friday 12:00, room 0.02 |
-| First Lecture | Wednesday April 17 |
+| First Lecture | Wednesday April 22 |
 | Lecturer      | Çağrı Çöltekin [\<ccoltekin@sfs.uni-tuebingen.de\>](mailto:ccoltekin@sfs.uni-tuebingen.de) |
+| Tutor        | Maximilian Gutsche [\<maximilian.gutsche@student.uni-tuebingen.de\>](mailto:maximilian.gutsche@student.uni-tuebingen.de) | |
 | Office hours  | Monday 14:00-15:00|
-| Tutors        | TBA |

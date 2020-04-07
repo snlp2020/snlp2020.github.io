@@ -9,7 +9,7 @@ You may want to have a look at the
 [previous edition of the course](http://coltekin.net/cagri/courses/snlp2019/)
 for reference.
 
-## The course schedule (*tentative!*)
+## The course schedule (<em style="color: red">tentative!</em>)
 
 <table rules="groups" style="width:100%;border-collapse: collapse;">
   <thead style="border-bottom: 1px solid #000;">

@@ -1,44 +1,38 @@
+#     reading: none
+#     links:
+#       slides: slides/introduction.pdf
+#        8up: slides/introduction-handout.pdf
 - week: "01"
   dates:
     Apr 13: "No class"
-    Apr 15:
-      topic: Introduction
-      reading: none
-      links:
-        slides: slides/introduction.pdf
-        8up: slides/introduction-handout.pdf
-      reading: None
-    Apr 17: 
-      topic: Math preliminaries
-      reading: None
+    Apr 15: "No class"
+    Apr 17: "No class"
 - week: "02"
   dates:
-    Apr 20: 
-      topic: Probability theory
-      reading: None
+    Apr 20: "Dept. meeting - no class"
     Apr 22:
-      topic: Probability theory (contd.)
+      topic: Introduction
     Apr 24:
-      topic: Information theory
+      topic: Math preliminaries
 - week: "03"
   dates:
     Apr 27:
-      topic: Machine learning introduction
+      topic: Probability theory
     Apr 29:
-      topic: Classification I
+      topic: Information theory
     May 01: "No class"
 - week: "04"
   dates:
     May 04:
-      topic: Classification II
+      topic: Machine learning introduction
     May 6:
-      topic: ML evaluation
+      topic: Classification I
     May 8:
-      topic: lab
+      topic: Classification II
 - week: "05"
   dates:
     May 11:
-      topic: ANN basics
+      topic: ML evaluation
     May 13:
       topic: ANN basics
     May 15:
@@ -46,7 +40,7 @@
 - week: "06"
   dates:
     May 18:
-      topic: Unsupervised learning
+      topic: ANN basics
     May 20:
       topic: Unsuprevised learning
     May 22:
