@@ -12,6 +12,8 @@
     Apr 20: "Dept. meeting - no class"
     Apr 22:
       topic: Introduction
+        slides: slides/introduction.pdf
+        8up: slides/introduction-handout.pdf
     Apr 24:
       topic: Math preliminaries
 - week: "03"
