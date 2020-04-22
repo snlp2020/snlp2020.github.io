@@ -7,7 +7,7 @@ Assignments will be posted on this page.
 Please note that to receive the starter code
 and submit the assignments,
 you will need to access the private course repository
-at <https://github.com/snlp2020/snlp2020>,
+at <https://github.com/snlp2020/snlp>,
 which you will gain access after completing
 the [first assignment](https://snlp2020.github.io/a0/)
 If you cannot access the above URL (and if you are a student of this course)
