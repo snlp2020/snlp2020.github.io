@@ -12,10 +12,15 @@
     Apr 20: "Dept. meeting - no class"
     Apr 22:
       topic: Introduction
+      links:
         slides: slides/introduction.pdf
         8up: slides/introduction-handout.pdf
     Apr 24:
       topic: Math preliminaries
+      links:
+        slides: slides/math-refresher.pdf
+        8up: slides/math-refresher-handout.pdf
+        notes: notes/math-refresher-notes.pdf
 - week: "03"
   dates:
     Apr 27:
