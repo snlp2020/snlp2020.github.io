@@ -25,6 +25,9 @@
   dates:
     Apr 27:
       topic: Probability theory
+      links:
+        slides: slides/probability-refresher.pdf
+        8up: slides/probability-refresher-handout.pdf
     Apr 29:
       topic: Information theory
     May 01: "No class"
