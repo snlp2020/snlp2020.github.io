@@ -67,7 +67,7 @@ Please do not forget to register to the course on
 
 **Due to current COVID-19 pandemic, the whole or a part of the class may be taught online.
 The places indicated below are only relevant
-only after the normal teaching activities are resumed**
+after the normal teaching activities are resumed**
 
 | Lectures      | Monday 12:00 / Wednesday 14:00, room 0.02 |
 | Lab  			| Friday 12:00, room 0.02 |

@@ -28,8 +28,13 @@
       links:
         slides: slides/probability-refresher.pdf
         8up: slides/probability-refresher-handout.pdf
+        notes: notes/probability-refresher-notes.pdf
     Apr 29:
       topic: Information theory
+      links:
+        slides: slides/information-theory.pdf
+        8up: slides/information-theory-handout.pdf
+        notes: notes/information-theory-notes.pdf
     May 01: "No class"
 - week: "04"
   dates:
