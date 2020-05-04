@@ -40,6 +40,10 @@
   dates:
     May 04:
       topic: Machine learning introduction
+      links:
+        slides: slides/ml-intro.pdf
+        8up: slides/ml-intro-handout.pdf
+        notes: notes/ml-intro-notes.pdf
     May 6:
       topic: Classification I
     May 8:
