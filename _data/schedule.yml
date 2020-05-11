@@ -45,15 +45,19 @@
         8up: slides/ml-intro-handout.pdf
         notes: notes/ml-intro-notes.pdf
     May 6:
-      topic: Classification I
+      topic: ML intro (contd.)
     May 8:
-      topic: Classification II
+      topic: Classification
+      links:
+        slides: slides/classification.pdf
+        8up: slides/classification-handout.pdf
+        notes: notes/classification-notes.pdf
 - week: "05"
   dates:
     May 11:
-      topic: ML evaluation
+      topic: Classification (contd.)
     May 13:
-      topic: ANN basics
+      topic: ML evaluation
     May 15:
       topic: lab
 - week: "06"
