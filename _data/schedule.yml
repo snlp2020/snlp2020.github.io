@@ -60,6 +60,8 @@
       topic: ML evaluation
     May 15:
       topic: lab
+      links:
+        slides: slides/15_05_2020_LabSession01.pdf
 - week: "06"
   dates:
     May 18:
