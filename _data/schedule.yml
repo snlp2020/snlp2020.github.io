@@ -58,6 +58,10 @@
       topic: Classification (contd.)
     May 13:
       topic: ML evaluation
+      links:
+        slides: slides/ml-evaluation.pdf
+        8up: slides/ml-evaluation-handout.pdf
+        notes: notes/ml-evaluation-notes.pdf
     May 15:
       topic: lab
       links:

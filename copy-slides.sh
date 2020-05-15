@@ -1,10 +1,10 @@
 #!/bin/bash
 
 slides=(introduction math-refresher probability-refresher \
-    information-theory ml-intro classification \
+    information-theory ml-intro classification ml-evaluation\
 )
 notes=(intro math-overview probability-overview \
-    information-theory ml-basics classification \
+    information-theory ml-basics classification ml-eval\
 )
 
 echo ${slides[@]}
