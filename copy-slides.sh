@@ -1,14 +1,11 @@
 #!/bin/bash
 
 slides=(introduction math-refresher probability-refresher \
-    information-theory ml-intro classification ml-evaluation\
+    information-theory ml-intro classification ml-evaluation nn-intro\
 )
 notes=(intro math-overview probability-overview \
-    information-theory ml-basics classification ml-eval\
+    information-theory ml-basics classification ml-eval neural-nets\
 )
-
-echo ${slides[@]}
-echo ${slides[1]}
 
 for i in ${!slides[@]}; do
     if [[ -r ../notes/chapters/${notes[$i]}.pdf ]];then

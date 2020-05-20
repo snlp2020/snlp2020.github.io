@@ -70,6 +70,10 @@
   dates:
     May 18:
       topic: ANN basics
+      links:
+        slides: slides/nn-intro.pdf
+        8up: slides/nn-intro-handout.pdf
+        notes: notes/nn-intro-notes.pdf
     May 20:
       topic: Unsuprevised learning
     May 22:
