@@ -19,6 +19,7 @@ please contact the instructor.
 - [Assignment 0](https://snlp2020.github.io/a0/): introduction, warm up
 - [Assignment 1](https://snlp2020.github.io/a1/): corpus collection
 - [Assignment 2](https://snlp2020.github.io/a2/): regression and regularization
+- [Assignment 3](https://snlp2020.github.io/a3/): classification and cross validation
 
 # Assignment policy
 
