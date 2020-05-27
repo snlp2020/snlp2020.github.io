@@ -82,6 +82,10 @@
   dates:
     May 25:
       topic: Unsupervised learning
+      links:
+        slides: slides/unsupervised.pdf
+        8up: slides/unsupervised-handout.pdf
+        notes: notes/unsupervised-notes.pdf
     May 27:
       topic: Summary
     May 29:

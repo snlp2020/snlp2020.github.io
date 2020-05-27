@@ -50,5 +50,3 @@ for other file types that allow comments.
  Honor Code:  I pledge that this program represents my own work.
 """
 ~~~
-
-# Tutorials
