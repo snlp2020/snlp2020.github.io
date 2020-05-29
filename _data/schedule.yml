@@ -90,7 +90,8 @@
       topic: Summary
     May 29:
       topic: lab 
-      slides: slides/29_05_2020_LabSession03.pdf
+      links:
+        slides: slides/29_05_2020_LabSession03.pdf
 - week: ""
   dates:
     Jun 01: "Sem. break"
