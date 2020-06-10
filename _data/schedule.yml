@@ -101,6 +101,9 @@
   dates:
     Jun 08:
       topic: Sequence learning
+      links:
+        slides: slides/sequence-learning.pdf
+        8up: slides/sequence-learning-handout.pdf
     Jun 10:
       topic: Sequence learning
     Jun 12:
