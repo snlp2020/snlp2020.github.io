@@ -20,6 +20,7 @@ please contact the instructor.
 - [Assignment 1](https://snlp2020.github.io/a1/): corpus collection
 - [Assignment 2](https://snlp2020.github.io/a2/): regression and regularization
 - [Assignment 3](https://snlp2020.github.io/a3/): classification and cross validation
+- [Assignment 4](https://snlp2020.github.io/a4/): unsupervised learning
 
 # Assignment policy
 
