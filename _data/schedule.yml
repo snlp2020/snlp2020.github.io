@@ -112,22 +112,25 @@
   dates:
     Jun 15:
       topic: Recurrent and convolutional networks
+      links:
+        slides: slides/deep-networks.pdf
+        8up: slides/deep-networks-handout.pdf
     Jun 17:
-      topic: Language models
+      topic:
     Jun 19:
       topic: lab
 - week: "10"
   dates:
     Jun 22:
-      topic: Tokenization / segmentation
+      topic: Language models
     Jun 24:
-      topic: POS tagging and morphology
+      topic: Tokenization / segmentation
     Jun 26:
       topic: lab
 - week: "11"
   dates:
     Jun 29:
-      topic: Dense vector representations
+      topic: POS tagging and morphology
     Jul 01:
       topic: Dense vector representations
     Jul 03:
