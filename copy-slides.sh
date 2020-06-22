@@ -2,11 +2,11 @@
 
 slides=(introduction math-refresher probability-refresher \
     information-theory ml-intro classification ml-evaluation nn-intro\
-    unsupervised sequence-learning deep-networks\
+    unsupervised sequence-learning deep-networks n-grams\
 )
 notes=(intro math-overview probability-overview \
     information-theory ml-basics classification ml-eval neural-nets\
-    unsupervised sequence-learning deep-networks\
+    unsupervised sequence-learning deep-networks n-grams\
 )
 
 for i in ${!slides[@]}; do

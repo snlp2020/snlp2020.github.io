@@ -123,6 +123,9 @@
   dates:
     Jun 22:
       topic: Language models
+      links:
+        slides: slides/n-grams.pdf
+        8up: slides/n-grams-handout.pdf
     Jun 24:
       topic: Tokenization / segmentation
     Jun 26:
