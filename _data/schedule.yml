@@ -127,37 +127,40 @@
         slides: slides/n-grams.pdf
         8up: slides/n-grams-handout.pdf
     Jun 24:
-      topic: Tokenization / segmentation
+      topic: Language models
     Jun 26:
       topic: lab
 - week: "11"
   dates:
     Jun 29:
-      topic: POS tagging and morphology
+      topic: Tokenization / segmentation
+      links:
+        slides: slides/tokenization.pdf
+        8up: slides/tokenization-handout.pdf
     Jul 01:
-      topic: Dense vector representations
+      topic: POS tagging and morphology
     Jul 03:
       topic: lab
 - week: "12"
   dates:
     Jul 6:
-      topic: Text classification
+      topic: Dense vector representations
     Jul 8:
-      topic: Parsing I
+      topic: Text classification
     Jul 11:
       topic: lab
 - week: "11"
   dates:
     Jul 13:
-      topic: Parsing II
+      topic: Parsing I
     Jul 15:
-      topic: State of the art in NLP
+      topic: Parsing II
     Jul 17:
       topic: lab
 - week: "14"
   dates:
     Jul 20:
-      topic: Summary
+      topic: State of the art in NLP
     Jul 22:
       topic: Exam preparation/discussion
     Jul 24:
