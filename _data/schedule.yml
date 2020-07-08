@@ -139,14 +139,23 @@
         8up: slides/tokenization-handout.pdf
     Jul 01:
       topic: POS tagging and morphology
+      links:
+        slides: slides/pos-tagging.pdf
+        8up: slides/pos-tagging-handout.pdf
     Jul 03:
       topic: lab
 - week: "12"
   dates:
     Jul 6:
       topic: Dense vector representations
+      links:
+        slides: slides/vector-representations.pdf
+        8up: slides/vector-representations-handout.pdf
     Jul 8:
       topic: Text classification
+      links:
+        slides: slides/text-classification.pdf
+        8up: slides/text-classification-handout.pdf
     Jul 11:
       topic: lab
 - week: "11"
