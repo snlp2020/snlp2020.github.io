@@ -116,7 +116,7 @@
         slides: slides/deep-networks.pdf
         8up: slides/deep-networks-handout.pdf
     Jun 17:
-      topic:
+      topic: Recurrent and convolutional networks
     Jun 19:
       topic: lab
 - week: "10"
