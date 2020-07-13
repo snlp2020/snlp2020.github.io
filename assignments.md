@@ -22,6 +22,7 @@ please contact the instructor.
 - [Assignment 3](https://snlp2020.github.io/a3/): classification and cross validation
 - [Assignment 4](https://snlp2020.github.io/a4/): unsupervised learning
 - [Assignment 5](https://snlp2020.github.io/a5/): neural networks
+- [Assignment 6](https://snlp2020.github.io/a6/): sequence labeling
 
 # Assignment policy
 

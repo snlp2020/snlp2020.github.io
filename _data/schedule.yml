@@ -104,6 +104,7 @@
       links:
         slides: slides/sequence-learning.pdf
         8up: slides/sequence-learning-handout.pdf
+        notes: notes/sequence-learning-notes.pdf
     Jun 10:
       topic: Sequence learning
     Jun 12:
@@ -115,6 +116,7 @@
       links:
         slides: slides/deep-networks.pdf
         8up: slides/deep-networks-handout.pdf
+        notes: notes/deep-networks-notes.pdf
     Jun 17:
       topic: Recurrent and convolutional networks
     Jun 19:
@@ -162,6 +164,9 @@
   dates:
     Jul 13:
       topic: Parsing I
+      links:
+        slides: slides/parsing.pdf
+        8up: slides/parsing-handout.pdf
     Jul 15:
       topic: Parsing II
     Jul 17:
