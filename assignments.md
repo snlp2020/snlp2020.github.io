@@ -23,6 +23,7 @@ please contact the instructor.
 - [Assignment 4](https://snlp2020.github.io/a4/): unsupervised learning
 - [Assignment 5](https://snlp2020.github.io/a5/): neural networks
 - [Assignment 6](https://snlp2020.github.io/a6/): sequence labeling
+- [Assignment 7](https://snlp2020.github.io/a6/): Sequence to sequence networks
 
 # Assignment policy
 
